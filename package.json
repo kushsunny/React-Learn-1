@@ -1,0 +1,17 @@
+{
+  "name": "react-learn-1",
+  "version": "1.0.0",
+  "description": "this is namste react by sunny",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "sunny",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
